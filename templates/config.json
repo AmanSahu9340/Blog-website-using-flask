@@ -1,0 +1,14 @@
+{
+    "params":
+    {
+        "local_server":"True",
+        "local_uri":"mysql://root:@localhost/blog_database",
+        "prod_uri":"mysql://root:@localhost/blog_database",
+        "title" : "A",
+        "sub_heading": "Blog Loved by everyone",
+        "fb_url": "https://www.facebook.com/profile.php?id=100023601155245",
+        "tw_url":"https://www.twitter.com/aman_sahu",
+        "git_url":"https://github.com/AmanSahu9340"
+
+    }
+}  

@@ -1,0 +1,17 @@
+{
+    "params":
+    {
+        "local_server":"True",
+        "local_uri":"mysql://root:@localhost/blog_database",
+        "prod_uri":"mysql://root:@localhost/blog_database",
+        "title" : "Aman's Blog",
+        "sub_heading": "Blog Loved by everyone",
+        "fb_url": "https://www.facebook.com/profile.php?id=100023601155245",
+        "tw_url":"https://www.twitter.com/aman_sahu",
+        "git_url":"https://github.com/AmanSahu9340",
+        "Mail_user":"amansahu93403@gmail.com",
+        "Mail_password":"jrkr jbnc vgiv wyzv",
+        "no_of_post" : 5
+
+    }
+}  
